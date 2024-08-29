@@ -19,7 +19,7 @@ Este repositório contém o código-fonte do site da clínica de estética da Dr
 
 1. Clone o repositório:
     ```bash
-    [git clone https://github.com/seu-usuario/nana-negao-clinica.git](https://github.com/ValeAdriano/Speciale.git)
+    git clone https://github.com/ValeAdriano/Speciale.git](https://github.com/ValeAdriano/Speciale.git)
     ```
 
 2. Abra o arquivo `index.html` no navegador para visualizar o site.
@@ -29,7 +29,9 @@ Este repositório contém o código-fonte do site da clínica de estética da Dr
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 Entre em contato:
-    ```bash
-    acsvalefilho@gmail.com
-    41 99202-1603
+    ```
+    [acsvalefilho@gmail.com]
+    ```
+    ```
+    [41 99202-1603]
     ```
